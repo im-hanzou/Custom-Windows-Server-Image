@@ -1,5 +1,5 @@
 
-## Langkah-langkah Instalasi
+## Langkah-langkah Instalasi | [Tutorial Video](https://youtu.be/HS_J5RUBbSw) (Indonesian)
 
 ### 1. Unduh dan Instal File Installer
 Jalankan perintah berikut untuk mengunduh installer:
